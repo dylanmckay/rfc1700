@@ -3,4 +3,13 @@ name = "rfc1700"
 version = "0.1.0"
 authors = ["Dylan McKay <dylanmckay34@gmail.com>"]
 
+description = "Constants defined in RFC 1700"
+documentation = "https://docs.rs/rfc1700"
+repository = "https://github.com/dylanmckay/rfc1700"
+
+readme = "README.md"
+license = "MIT"
+
+keywords = ["rfc1700", "rfc", "ietf"]
+
 [dependencies]
