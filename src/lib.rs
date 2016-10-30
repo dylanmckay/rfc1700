@@ -2,6 +2,8 @@
 //!
 //! * [RFC 1700](https://www.ietf.org/rfc/rfc1700.txt)
 
+#![no_std]
+
 /// System name constants.
 pub mod system
 {

@@ -11,3 +11,5 @@ Assigned numbers from [RFC 1700](https://www.ietf.org/rfc/rfc1700.txt).
 Only the system names defined in the RFC have been added. Pull requests for
 any other additions are welcome!
 
+This crate does not depend on `std` so it can be used in freestanding environments.
+
